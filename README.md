@@ -20,7 +20,7 @@ the side menu. (Log out if needed)
     
 
 This project will run 4 testclasses:
-class name="tests.RegisterNewUser"
-class name="tests.Logout"
-class name="tests.Login"
-class name="tests.OrderAnItem"
+1. class name="tests.RegisterNewUser"
+2. class name="tests.Logout"
+3. class name="tests.Login"
+4. class name="tests.OrderAnItem"
