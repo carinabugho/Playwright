@@ -16,4 +16,11 @@ the side menu. (Log out if needed)
 ○ Select a payment method. (Kindly refer test card details on the checkout)
 ○ Complete the order.
 8. Verify the order confirmation page is shown with an order number and success message.
-9. Add assertions at each key step (e.g., URL validation, UI messages, order confirmation, etc.).
+9. Add assertions at each key step (e.g., URL validation, UI messages, order confirmation, etc.)
+    
+
+This project will run 4 testclasses:
+<class name="tests.RegisterNewUser"/>
+<class name="tests.Logout"/>
+<class name="tests.Login"/>
+<class name="tests.OrderAnItem"/>
